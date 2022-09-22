@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "jenkinsProj"
+    }
+  },
+  "defaultProject": "jenkinsProj",
+  "cli": {
+    "analytics": "e6ceb1ea-593e-42fd-ac15-ca50f1382f83"
+  }
 }
